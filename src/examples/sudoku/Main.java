@@ -1,6 +1,6 @@
-package examples;
+package examples.sudoku;
 
-public class SudokuStuff {
+public class Main {
 	
 	public static void main(String[] args) {
 		
